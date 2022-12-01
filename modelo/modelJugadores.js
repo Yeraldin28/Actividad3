@@ -2,54 +2,54 @@ const dataBrazil = [
     { 
         "jugadores":"Alisson ",
         "posicion":"Arquero",
-        "pais":"Brazil"
+        "pais":"Brasil"
         
 
     },  
     { 
         "jugadores":"Casemiro ",
         "posicion":"Volante",
-        "pais":"Brazil"
+        "pais":"Brasil"
 
     },
     { 
         "jugadores":"Raphinha ",
         "posicion":"Delantero",
-        "pais":"Brazil"
+        "pais":"Brasil"
 
     },  
     { 
         "jugadores":"Vinicius Júnior ",
         "posicion":"Delantero",
-        "pais":"Brazil"
+        "pais":"Brasil"
 
     },
     { 
         "jugadores":"Richarlison ",
         "posicion":"Delantero ",
-        "pais":"Brazil"
+        "pais":"Brasil"
     },  
     { 
         "jugadores":"Fred",
         "posicion":"Volante",
-        "pais":"Brazil"
+        "pais":"Brasil"
 
     },
     { 
         "jugadores":"Alex Telles ",
         "posicion":"Volante",
-        "pais":"Brazil"
+        "pais":"Brasil"
     },  
     { 
         "jugadores":"Fabinho ",
         "posicion":"Volante",
-        "pais":"Brazil"
+        "pais":"Brasil"
 
     },
     { 
         "jugadores":"Casemiro",
         "posicion":"Volante",
-        "pais":"Brazil"
+        "pais":"Brasil"
 }
 ];
 const dataMexico = [
